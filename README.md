@@ -42,6 +42,7 @@ for day in range(8):
 
 ````
 
+Mirando otros repos, afortunadamente el JSON no queda como una linea de una longitud super larga ocupando casi todo el repo SHJAHSJA, pero para trabajarlo en el VSCODE fue un completo dolor de cabeza.
 Esta fue la solución que le pude dar, no estoy muy familiarizado con los JSON, pero logro medio entender su funcionamiento y como tratarlos. Este código es bastante corto ¿no? (Sarcasmo), pero bueno, este programa analiza el pronóstico del clima en formato JSON para encontrar y mostrar alertas climáticas específicas para cada día. Una explicación podría ser:
 
 - Se utiliza el módulo `json` para cargar el JSON del pronóstico del clima en una estructura de datos de Python.
